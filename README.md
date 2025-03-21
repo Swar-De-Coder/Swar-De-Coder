@@ -1,10 +1,10 @@
-👋 Hi, I'm Swar Mhatre
-🚀 Machine Learning Enthusiast | Developer | Open-Source Contributor
-🔍 About Me
-💡 Passionate about Machine Learning, Deep Learning, and Software Development
-📚 Currently diving deep into Neural Networks, Computer Vision, and NLP
-🤝 Open to collaborations on exciting ML and AI projects
-🌍 Exploring the world of AI-driven applications
+-👋 Hi, I'm Swar Mhatre
+-🚀 Machine Learning Enthusiast | Developer | Open-Source Contributor
+-🔍 About Me
+-💡 Passionate about Machine Learning, Deep Learning, and Software Development
+-📚 Currently diving deep into Neural Networks, Computer Vision, and NLP
+-🤝 Open to collaborations on exciting ML and AI projects
+-🌍 Exploring the world of AI-driven applications
 
 🛠️ Tech Stack
 Programming Languages: Python, C++, JavaScript
