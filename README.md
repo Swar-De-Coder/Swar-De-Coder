@@ -1,11 +1,33 @@
-- 👋 Hi, I’m @Swar Mhatre
-- 👀 I’m interested in Machine Learning, Development
-- 🌱 I’m currently learning about Deep Learning
-- 💞️ I’m looking to collaborate on Machine Learning Projects
-- 📫 Contact me via Gmail - swarmhatre.offical@gmail.com
-- 😄 Pronouns: He/Him
+👋 Hi, I'm Swar Mhatre
+🚀 Machine Learning Enthusiast | Developer | Open-Source Contributor
+🔍 About Me
+💡 Passionate about Machine Learning, Deep Learning, and Software Development
+📚 Currently diving deep into Neural Networks, Computer Vision, and NLP
+🤝 Open to collaborations on exciting ML and AI projects
+🌍 Exploring the world of AI-driven applications
 
-<!---
-Swar-De-Coder/Swar-De-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Tech Stack
+Programming Languages: Python, C++, JavaScript
+Machine Learning: TensorFlow, PyTorch, Scikit-learn
+Deep Learning: CNNs, RNNs, Transformers
+Web Development: React.js, Node.js, Express.js, Next.js
+Databases: MySQL, MongoDB
+Version Control: Git, GitHub
+Cloud & Deployment: AWS, Docker
+📈 GitHub Stats
+
+
+🎯 Current Focus
+🔬 Building Deep Learning models for real-world applications
+📊 Experimenting with Data Science & AI-driven solutions
+💡 Enhancing MLOps skills for production-ready AI
+
+🌟 Featured Projects
+🚀 Project Name - Short description of the project
+🤖 Project Name - Short description of the project
+📊 Project Name - Short description of the project
+
+📫 Connect with Me
+📧 Email: swarmhatre.offical@gmail.com
+💼 LinkedIn: Swar Mhatre
+🌐 Portfolio: YourWebsite.com
